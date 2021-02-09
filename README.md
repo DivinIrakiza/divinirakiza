@@ -9,10 +9,9 @@
 
 
 #### Echa un Vistazo
-   - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+  - [Github](https://github.com/DivinIrakiza)
+  - [StackOverflow](https://stackoverflow.com/users/11458778/divin-irakiza)
+  - [Twitter](https://twitter.com/divinirakiza)
+  - [Facebook](https://www.facebook.com/divin.irakiza/)
 
 
