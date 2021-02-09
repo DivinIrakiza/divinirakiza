@@ -11,7 +11,8 @@
 #### Ping Me :)
   - [Github](https://github.com/DivinIrakiza)
   - [StackOverflow](https://stackoverflow.com/users/11458778/divin-irakiza)
-  - [Twitter](https://twitter.com/divinirakiza)
+  - [NPM](https://www.npmjs.com/~divinirakiza)
   - [LinkedIn](https://www.linkedin.com/in/divin-irakiza-374256193/)
+  - Twitter](https://twitter.com/divinirakiza)
 
 
