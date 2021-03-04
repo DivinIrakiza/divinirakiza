@@ -5,7 +5,7 @@
 **DivinIrakiza/divinirakiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-###### Really into this :)
+###### A matter of time
 
 #### Contributed to a few:
   - [Stunlab Desktop](https://stunnitysoft.github.io/stunlab_user/)
