@@ -1,4 +1,4 @@
-### 🔥 Waiting
+### 🔵 Waiting
 
 # Divin Irakiza
 <!--
