@@ -1,4 +1,4 @@
-###  🖲 Refresh
+###  🖲 Ctrl + F5
 
 # Divin Irakiza
 <!--
